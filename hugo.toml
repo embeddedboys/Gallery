@@ -1,6 +1,6 @@
 title = "Gallery"
 languageCode = "en-us"
-copyright = "© Your Name"
+copyright = "© embeddedboys"
 disableKinds = ["taxonomy", "term"]
 defaultContentLanguage = "en"
 enableRobotsTXT = true
@@ -8,12 +8,12 @@ timeZone = "Europe/Berlin"
 theme = "github.com/nicokaiser/hugo-theme-gallery"
 
 [params]
-  title = "My Gallery"
-  description = "Example site for hugo-theme-gallery"
+  title = "Gallery of embeddedboys"
+  description = "Gallery site for embeddedboys"
   defaultTheme = "dark"
 
 [author]
-  name = "Your Name"
+  name = "iotah"
 
 [outputs]
   page = ["HTML"]
@@ -57,5 +57,5 @@ theme = "github.com/nicokaiser/hugo-theme-gallery"
 [menu]
 [[menu.footer]]
   name = "GitHub"
-  url = "https://github.com/nicokaiser/hugo-theme-gallery/"
+  url = "https://github.com/embeddedboys"
   weight = 3
